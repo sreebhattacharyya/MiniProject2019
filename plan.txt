@@ -1,0 +1,42 @@
+starttest.php
+{
+ terms and conditions
+button to start test.
+}
+
+
+
+
+exam.php
+{
+get[qno]=question number;
+display question
+{
+get qstn reference from qpaper table
+find qstion in qstn table
+read file and output
+}
+
+change qno buttons
+{
+redirect to the same page with diff qno
+}
+
+record ans 
+{
+record the ans in table
+}
+
+there will be a submit button --links to submit.php --submits the name of the qpaper table in post method
+}
+
+
+
+
+
+
+submit.php
+{
+check answers and display results
+delete table
+}

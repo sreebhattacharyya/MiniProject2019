@@ -1,0 +1,16 @@
+[
+{"type":"header","version":"4.8.5","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"qpapers"},
+{"type":"table","name":"exqp1","database":"qpapers","data":
+[
+{"id":"1","qref":"5","response":"1"},
+{"id":"2","qref":"6","response":null},
+{"id":"3","qref":"8","response":null}
+]
+}
+,{"type":"table","name":"reg_qpaper","database":"qpapers","data":
+[
+{"id":"1","name":"exqp1","auth":"Amor"}
+]
+}
+]
